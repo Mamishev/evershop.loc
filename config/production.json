@@ -1,0 +1,17 @@
+{
+    "shop": {
+        "currency": "RUR",
+        "language": "ru",
+        "weightUnit": "kg",
+        "timezone": "Europe/Moscow"
+    },
+    "system": {
+        "database": {
+            "host": "localhost",
+            "port": "5432",
+            "database": "evershop",
+            "user": "postgres",
+            "password": "c6ZYUZZ4"
+        }
+    }
+}

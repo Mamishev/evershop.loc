@@ -1,0 +1,30 @@
+{
+  "name": "evershop.loc",
+  "version": "1.0.0",
+  "description": "React based e-commerce project",
+  "main": "index.js",
+  "scripts": {
+    "setup": "evershop install",
+    "build": "evershop build",
+    "start": "evershop start",
+    "dev": "evershop dev",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mamishev/evershop.git"
+  },
+  "keywords": [
+    "ecommerce",
+    "e-shop"
+  ],
+  "author": "Alexander Mamishev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mamishev/evershop/issues"
+  },
+  "homepage": "https://github.com/Mamishev/evershop#readme",
+  "dependencies": {
+    "@evershop/evershop": "^1.0.0-rc.7"
+  }
+}
