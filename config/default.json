@@ -12,6 +12,7 @@
             "database": "evershop",
             "user": "postgres",
             "password": "c6ZYUZZ4"
-        }
+        },
+        "theme": "certsys"
     }
 }
